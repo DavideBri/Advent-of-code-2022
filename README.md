@@ -1,5 +1,7 @@
 # Advent of code 2022
+
 ![](https://geps.dev/progress/4)
+
 [Advent of code](https://adventofcode.com) 2022 challenges.
 For all the challenges I will use C, to keep my knowledge fresh, and I will focus on Memory and Time optimization. 
 
