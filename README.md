@@ -1,7 +1,8 @@
 # Advent of code 2022
 
 <p align="center">
-![](https://progress-bar.dev/4?title=completed) ![](https://img.shields.io/badge/Language-C-C)
+<img src="https://progress-bar.dev/4?title=completed">
+<img src="https://img.shields.io/badge/Language-C-C">
 </p>
 
 [Advent of code](https://adventofcode.com) 2022 challenges.
