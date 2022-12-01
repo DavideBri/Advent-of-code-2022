@@ -1,6 +1,6 @@
 # Advent of code 2022
 
-![](https://progress-bar.dev/4?title=completed) ![](https://img.shields.io/badge/Language-C-C)
+<p style="text-align: center;"> ![](https://progress-bar.dev/4?title=completed) ![](https://img.shields.io/badge/Language-C-C) </p>
 
 [Advent of code](https://adventofcode.com) 2022 challenges.
 For all the challenges I will use C, to keep my knowledge fresh, and I will focus on Memory and Time optimization. 
